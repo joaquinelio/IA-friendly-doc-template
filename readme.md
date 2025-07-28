@@ -16,6 +16,7 @@ Completamente en bruto
 
 Ambos md de ejemplo fueron hechos por chatipití SIN el feedback humano que SIEMPRE es necesario (hasta hoy al menos) 
 
-El de marketing no interpretó del todo su objetivo, quiza porque el producto ej que le di es justamente demasiado técnico, vendible a usuarios programadores.
+El template marketing no interpretó del todo su objetivo, quiza porque el producto ej que le di es justamente demasiado técnico, vendible a usuarios programadores.
 Debo cambiarlo por un folleto ejemlpo más para usuario final, como a un gerente que toma decisiones. 
 
+El template tech no entendio del todo el componente js. Fixable. 
